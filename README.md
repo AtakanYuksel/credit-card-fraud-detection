@@ -16,6 +16,6 @@ This is a work in progress project.<br>
 <ol>
 <li> Feature Selection </li>
 <li> Feature Engineering </li>
-<li> Modeling (RandomForestClassifier, SGDClassifier, XGBoost) </li>
+<li> Modeling (XGBoost, DecisionTree, SGDClassifier) </li>
 <li> Classification Metrics </li>
 </ol>
