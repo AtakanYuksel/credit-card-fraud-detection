@@ -16,7 +16,7 @@ You can recreate the results using 'environment.yml' with anaconda<br>
 ## Done:
 <ol>
 <li> Feature Selection </li>
-<li> Feature Engineering </li>
+<li> Feature Engineering (Undersampling, Oversampling) </li>
 <li> Modeling (XGBoost, DecisionTree, SGDClassifier) </li>
 <li> Classification Metrics </li>
 </ol>
