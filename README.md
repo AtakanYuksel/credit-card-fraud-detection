@@ -6,17 +6,17 @@ You can recreate the results using 'environment.yml' with anaconda<br>
 
 ## Left to do:
 <ol>
-<li> Further EDA </li>
-<li> Hyperparameter optimization </li>
-<li> Final Conclusions </li>
+  <li> Hyperparameter optimization </li>
+  <li> Final Conclusions </li>
 </ol>
 
 <br>
 
 ## Done:
 <ol>
-<li> Feature Selection </li>
-<li> Feature Engineering (Undersampling, Oversampling) </li>
-<li> Modeling (XGBoost, DecisionTree, SGDClassifier) </li>
-<li> Classification Metrics </li>
+  <li> Exploratory Data Analysis </li>
+  <li> Feature Selection </li>
+  <li> Feature Engineering (Undersampling, Oversampling) </li>
+  <li> Modeling (XGBoost, DecisionTree, SGDClassifier) </li>
+  <li> Classification Metrics </li>
 </ol>
